@@ -1,15 +1,6 @@
 # 🚀 Anthony Lopez | Développeur Full Stack Web & Mobile  
 
-```bash
-  _____       _   _            _             
- |  __ \     | | | |          (_)            
- | |__) |   _| |_| |_ ___ _ __ _ _ __   __ _ 
- |  _  / | | | __| __/ _ \ '__| | '_ \ / _` |
- | | \ \ |_| | |_| ||  __/ |  | | | | | (_| |
- |_|  \_\__,_|\__|\__\___|_|  |_|_| |_|\__, |
-                                         __/ |
-                                        |___/ 
-```
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&width=435&lines=Bienvenue+sur+mon+profil+GitHub!;D%C3%A9veloppeur+Full+Stack+Web+%26+Mobile;Passionn%C3%A9+de+code+et+de+design!)
 
 👋 Bienvenue sur mon profil GitHub !
 
